@@ -10,6 +10,12 @@ I'm Dmitriy, Python-developer.
 - Python. [Repository with examination project](https://github.com/ZverevDmitriyZDV/ZDV-Diploma-Yandex-VK-Copy/blob/main/diplom.py)
 
 ### Сertificates of Education:
+- Django. [Django certificate](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20DJANGO.pdf)
+- Python. [Python developer](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20developer.pdf)
+- Python in web-development [Python for web](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20in%20Web.pdf)
+- SQL and database (SQL)(https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20SQl%20DataBase.pdf)
+- GIT (GIT)(https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20GIT.pdf)
+
 <!--
 **ZverevDmitriyZDV/ZverevDmitriyZDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
