@@ -16,7 +16,7 @@ I'm Dmitriy, Python-developer.
 - SQL and database [SQL](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20SQl%20DataBase.pdf)
 - GIT [GIT](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20GIT.pdf)
 
-### 📫 How to reach me: 
+### How to reach me: 
 - [Telegram](https://t.me/ZverevDmitriy)
 - [WhatsApp](https://wa.me/79167043794)
 - [Facebook](https://www.facebook.com/profile.php?id=100025368426971)
