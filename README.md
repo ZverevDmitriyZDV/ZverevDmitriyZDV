@@ -13,11 +13,13 @@ I'm Dmitriy, Python-developer.
 - Django. [Django certificate](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20DJANGO.pdf)
 - Python. [Python developer](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20developer.pdf)
 - Python in web-development [Python for web](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20in%20Web.pdf)
-- SQL and database (SQL)(https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20SQl%20DataBase.pdf)
-- GIT (GIT)(https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20GIT.pdf)
+- SQL and database [SQL](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20SQl%20DataBase.pdf)
+- GIT [GIT](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20GIT.pdf)
 
 ### 📫 How to reach me: 
-
+- [Telegram](https://t.me/ZverevDmitriy)
+- [WhatsApp](https://wa.me/79167043794)
+- [Facebook](https://www.facebook.com/profile.php?id=100025368426971)
 <!--
 **ZverevDmitriyZDV/ZverevDmitriyZDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
