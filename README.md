@@ -3,7 +3,7 @@
 I'm Dmitriy, Python-developer.
 
 ### My skills:
-- One of my test project based on Telegram Bot and clients API's. [Telebot Exchange Convertor](https://github.com/ZverevDmitriyZDV/Telebot_for_banks_rates)
+- Telegram Bot test project. [Telebot Exchange Convertor](https://github.com/ZverevDmitriyZDV/Telebot_for_banks_rates)
 - Django. [Repository with graduation project](https://github.com/ZverevDmitriyZDV/ZDV_Diploma_DRF_backend)
 - SQL, postgres, mysql, DataBase [Repository with examination project](https://github.com/ZverevDmitriyZDV/ZDV-Diploma-VK-SQL-Request)
 - Flask, Asyncio, Aiohttp, Docker-compose, Docker. [Repository with semi-graduation project](https://github.com/ZverevDmitriyZDV/HW-Terminal-simple_crud-doker-heroku)
