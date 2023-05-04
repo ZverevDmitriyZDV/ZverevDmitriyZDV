@@ -1,4 +1,6 @@
-### Всем привет
+### Всем привет      _[eng](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/README.md) | [ru](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/ReadMeRus.md)_
+
+
 
 Меня зовут Дмитрий, Python-developer.
 
