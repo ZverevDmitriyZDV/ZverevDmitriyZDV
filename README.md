@@ -3,18 +3,18 @@
 I'm Dmitriy, Python-developer.
 
 ### My skills:
-- Telegram Bot, Tinkoff API, Bangkok API. [Repository with Telebot Exchange Convertor project](https://github.com/ZverevDmitriyZDV/Telebot_for_banks_rates)
+- Telegram Bot, Tinkoff Invest API, Bangkok Bank API. [Repository with Telebot Exchange Convertor project](https://github.com/ZverevDmitriyZDV/Telebot_for_banks_rates)
 - Django, SQLAlchemy. [Repository with graduation project](https://github.com/ZverevDmitriyZDV/ZDV_Diploma_DRF_backend)
 - SQL, Postgres, Mysql [Repository with examination project](https://github.com/ZverevDmitriyZDV/ZDV-Diploma-VK-SQL-Request)
 - Flask, Asyncio, Aiohttp, Docker, Docker-compose. [Repository with semi-graduation project](https://github.com/ZverevDmitriyZDV/HW-Terminal-simple_crud-doker-heroku)
 - Python. [Repository with examination project](https://github.com/ZverevDmitriyZDV/ZDV-Diploma-Yandex-VK-Copy/blob/main/diplom.py)
 
 ### Сertificates of Education:
-- Django. [Django certificate](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20DJANGO.pdf)
-- Python. [Python developer](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20developer.pdf)
-- Python in web-development. [Python for web](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20in%20Web.pdf)
-- SQL and database. [SQL](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20SQl%20DataBase.pdf)
-- GIT. [GIT](https://github.com/ZverevDmitriyZDV/Netology_Certificates_of_Education/blob/main/Python%20GIT.pdf)
+- Django. [Django certificate](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/Python%20DJANGO.pdf)
+- Python. [Python developer](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/Python%20developer.pdf)
+- Python in web-development. [Python for web](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/Python%20in%20Web.pdf)
+- SQL and database. [SQL](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/Python%20SQl%20DataBase.pdf)
+- GIT. [GIT](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/Python%20GIT.pdf)
 
 ### How to reach me: 
 - [Telegram](https://t.me/ZverevDmitriy)
