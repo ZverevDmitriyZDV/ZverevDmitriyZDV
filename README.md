@@ -1,5 +1,4 @@
-### Hi there
-version [eng](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/README.md) | [ru](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/ReadMeRus.md)
+### Hi there _[eng](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/README.md) | [ru](https://github.com/ZverevDmitriyZDV/ZverevDmitriyZDV/blob/main/ReadMeRus.md)_
 
 I'm Dmitriy, Python-developer.
 
